@@ -1,8 +1,4 @@
-import subprocess
 import pyautogui
-import time
-import pywinauto
-import pygetwindow as gw
 import os
 import sys
 import pytesseract
